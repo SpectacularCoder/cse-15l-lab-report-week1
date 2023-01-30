@@ -1,7 +1,7 @@
 # cse-15l-lab-report-week1
 ## Lab Report 1
 ### Step 1: Installing Visual Studio Code
-Go to the Visual Studio Code website https://code.visualstudio.com/ to access the installation link. 
+Go to the Visual Studio Code website **[Visual Stuido Code](https://code.visualstudio.com/)** to access the installation link. 
 
 From this link, there should be a link to download Visual Studio Code. Depending on what operating system your computer functions on, you may want to change the link by clicking the dropdown menu to select the proper version of Visual Studio Code to install that best suits your computer's operating system. 
 
@@ -28,7 +28,7 @@ ssh ssh cs15lwi23zz@ieng6.ucsd.edu
 ```
 Make sure the zz is replaced with your course specific account letter combination, if that is not known use the following link to look it up:
 
-https://sdacs.ucsd.edu/~icc/index.php
+**[Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)**
 
 Since this is the first time you are remotely accessing your account, you will be prompted with the following message 
 
@@ -59,6 +59,6 @@ Since everything is setup now, you can now run some commands through terminal to
 
 Here is a result of what running a command inside the terminal would yield, this is for the ls -a command 
 ![Image](command1.png)
-
+What ls -a essentially does it look through all the files including files that are hidden. It also displays directories. This step is about learning how to utilize the terminal to source and find files inside your laptop and to search through your laptop to access certain directories to assist in project building.
 
 
